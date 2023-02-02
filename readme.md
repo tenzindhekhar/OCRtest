@@ -9,10 +9,10 @@ Selecting Pages having Unique Page layout
 - [ ] push those image in github repo
 
 ཤོག་བུ་དམིགས་གསལ་བ་རྣམས་ལ་འདེམས་སྣོན་བྱས།
-- [ ] zipfileདེ་ཉིད་ཕབ་ལེན་བྱས།(https://github.com/MonlamAI/OCRtest/releases/download/v0.1/W26071.zip)
+- [ ] zipfileདེ་ཉིད་ཕབ་ལེན་བྱེད།(https://github.com/MonlamAI/OCRtest/releases/download/v0.1/W26071.zip)
 - [ ] zipfileདེ་སྒོ་ཕྱེས་།
-- [ ] repoདེ་སོ་སོར་གློག་ཀླད་ནང་དུ་cloneབྱས།
+- [ ] repoདེ་སོ་སོར་གློག་ཀླད་ནང་དུ་cloneབྱེད།
 - [ ] དེ་ལ་folderགསར་པ་unique_imagesཞོག།
 - [ ] unzip folderདེ་སྒོ་ཕྱེས།
-- [ ] ཤོག་དུ་དམིགས་གསལ་བ་དེ་འདེམ་སྒྲུག་བྱས་ནས་unique_imagesནང་དུ་འད྄་བཤུས་བྱེས།
+- [ ] ཤོག་བུ་དམིགས་གསལ་བ་དེ་འདེམ་སྒྲུག་བྱས་ནས་unique_imagesནང་དུ་འདྲ་བཤུས་བྱེད།
 - [ ] དཔར་རིས་དེ་རྣམས་github repo ནང་དུ་བླུགས་།
