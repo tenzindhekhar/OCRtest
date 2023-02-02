@@ -14,5 +14,5 @@ Selecting Pages having Unique Page layout
 - [ ] repoདེ་སོ་སོར་གློག་ཀླད་ནང་དུ་cloneབྱས།
 - [ ] དེ་ལ་folderགསར་པ་unique_imagesཞོག།
 - [ ] unzip folderདེ་སྒོ་ཕྱེས།
-- [ ] ཤོག་དུ་དམིགས་གསལ་བ་དེ་འདེམ་སྒྲུག་བྱས་ནས་unique_imagesནང་དུ་འད྄་བཤུས་བྱེས།
+- [ ] ཤོག་བུ་དམིགས་གསལ་བ་དེ་འདེམ་སྒྲུག་བྱས་ནས་unique_imagesནང་དུ་འབཤུས་བྱས།
 - [ ] དཔར་རིས་དེ་རྣམས་github repo ནང་དུ་བླུགས་།
